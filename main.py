@@ -8,10 +8,6 @@ field[1][0] = '0'
 field[2][0] = '1'
 field[3][0] = '2'
 
-print('''
-        
-''')
-
 # Вывод поля
 for s in field:
     print(*s)
